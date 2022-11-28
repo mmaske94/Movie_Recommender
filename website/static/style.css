@@ -1,0 +1,16 @@
+form{
+    width: 580px;
+    margin: 50px auto;
+    position: relative;
+}
+
+form input{
+    display: block;
+    font-size: 16px;
+    border: solid 1px black;
+    border-radius: 27%;
+    padding: 13px;
+    border-radius: 25px;
+    width: 100%;
+    outline: none;
+}
